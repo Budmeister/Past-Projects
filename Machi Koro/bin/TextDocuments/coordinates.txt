@@ -1,0 +1,52 @@
+[north]
+First Establishment:898,75
+Train Station:898,175
+Shopping Mall:828,175
+Amusement Park:758,175
+Radio Tower:688,175
+Money:435,175
+Center:683,170
+Logo:595,175
+Roll From:958,175
+[done]
+
+[south]
+First Establishment:408,603
+Train Station:408,503
+Shopping Mall:478,503
+Amusement Park:548,503
+Radio Tower:618,503
+Money:781,443
+Center:683,598
+Logo:683,505
+Roll From:308,503
+[done]
+
+[east]
+First Establishment:1201,599
+Train Station:1101,599
+Shopping Mall:1101,529
+Amusement Park:1101,459
+Radio Tower:1101,389
+Money:1041,136
+Center:1196,384
+Logo:1103,296
+Roll From:1101,659
+[done]
+
+[west]
+First Establishment:75,109
+Train Station:175,109
+Shopping Mall:175,179
+Amusement Park:175,249
+Radio Tower:175,319
+Money:175,482
+Center:170,384
+Logo:175,384
+Roll From:175,9
+[done]
+
+[bank]
+Money:683,384
+Center:683,384
+[done]

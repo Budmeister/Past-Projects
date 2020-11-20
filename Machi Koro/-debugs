@@ -1,0 +1,40 @@
+Anonymous Logger - stable ------------- Sat Oct 24 10:06:20 CDT 2020: --CREATED LOGGER--
+FrameHandler - constructing ----------- Sat Oct 24 10:06:20 CDT 2020: --CREATED LOGGER--
+Main Object - stable ------------------ Sat Oct 24 10:06:20 CDT 2020: --CREATED LOGGER--
+SocketHandler - DEAD ------------------ Sat Oct 24 10:06:20 CDT 2020: --CREATED LOGGER--
+SocketHandler - DEAD ------------------ Sat Oct 24 10:06:20 CDT 2020: MessageSender created with no port number
+CardImages - stable ------------------- Sat Oct 24 10:06:20 CDT 2020: --CREATED LOGGER--
+FrameHandler - Loading Game ----------- Sat Oct 24 10:06:20 CDT 2020: Creating Loading Screen
+CardImages - stable ------------------- Sat Oct 24 10:06:29 CDT 2020: Created images
+Establishments - stable --------------- Sat Oct 24 10:06:29 CDT 2020: --CREATED LOGGER--
+Establishments - stable --------------- Sat Oct 24 10:06:29 CDT 2020: Creating actions for original game
+Establishments - stable --------------- Sat Oct 24 10:06:29 CDT 2020: Reading: /TextDocuments/cards_original.txt
+Establishments - stable --------------- Sat Oct 24 10:06:29 CDT 2020: Finished reading: /TextDocuments/cards_original.txt
+FrameHandler - Main Menu -------------- Sat Oct 24 10:06:29 CDT 2020: Creating Main Menu
+FrameHandler - Main Menu -------------- Sat Oct 24 10:06:32 CDT 2020: Showing buttons
+Main Object - stable ------------------ Sat Oct 24 10:06:35 CDT 2020: Starting solo game
+Player 0 - created -------------------- Sat Oct 24 10:06:40 CDT 2020: --CREATED LOGGER--
+FrameHandler - Main Menu -------------- Sat Oct 24 10:06:43 CDT 2020: Creating Main Menu
+FrameHandler - Main Menu -------------- Sat Oct 24 10:06:43 CDT 2020: Showing buttons
+FrameHandler - Main Menu -------------- Sat Oct 24 10:06:43 CDT 2020: Showing buttons
+Main Object - stable ------------------ Sat Oct 24 10:06:45 CDT 2020: Starting multiplayer game
+Player 0 - created -------------------- Sat Oct 24 10:06:50 CDT 2020: --CREATED LOGGER--
+Player 1 - created -------------------- Sat Oct 24 10:06:52 CDT 2020: --CREATED LOGGER--
+Player 2 - created -------------------- Sat Oct 24 10:06:53 CDT 2020: --CREATED LOGGER--
+Player 2 - created -------------------- Sat Oct 24 10:06:54 CDT 2020: --CREATED LOGGER--
+FrameHandler - Gameplay Scene --------- Sat Oct 24 10:06:57 CDT 2020: Positions: south,west,north,
+EstablishmentMenu - closed ------------ Sat Oct 24 10:06:57 CDT 2020: --CREATED LOGGER--
+FrameHandler - Gameplay Scene --------- Sat Oct 24 10:07:05 CDT 2020: Rolled a 3
+Player 0 - playing -------------------- Sat Oct 24 10:07:13 CDT 2020: Processed a 3
+Anonymous Logger - stable ------------- Sat Oct 24 10:07:21 CDT 2020: e1 finished - 496
+FrameHandler - Gameplay Scene --------- Sat Oct 24 10:07:28 CDT 2020: Rolled a 1
+Player 1 - playing -------------------- Sat Oct 24 10:07:37 CDT 2020: Processed a 1
+Anonymous Logger - stable ------------- Sat Oct 24 10:07:46 CDT 2020: e1 finished - 502
+FrameHandler - Gameplay Scene --------- Sat Oct 24 10:07:53 CDT 2020: Rolled a 6
+Player 0 - playing -------------------- Sat Oct 24 10:08:00 CDT 2020: Processed a 6
+Anonymous Logger - stable ------------- Sat Oct 24 10:08:05 CDT 2020: e1 finished - 493
+Main Object - paused ------------------ Sat Oct 24 10:08:11 CDT 2020: Paused
+Main Object - stable ------------------ Sat Oct 24 10:08:13 CDT 2020: Quitting
+FrameHandler - Main Menu -------------- Sat Oct 24 10:08:13 CDT 2020: Creating Main Menu
+FrameHandler - Main Menu -------------- Sat Oct 24 10:08:13 CDT 2020: Showing buttons
+FrameHandler - Main Menu -------------- Sat Oct 24 10:08:13 CDT 2020: Showing buttons

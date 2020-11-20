@@ -1,0 +1,195 @@
+
+[card]
+name:Wheat Field
+message:Get 1 coin from the bank, on anyone's turn.
+numbers:1
+price:1
+color:blue
+type:field
+id:0
+do:{
+get:1
+}
+[done]
+
+[card]
+name:Ranch
+message:Get 1 coin from the bank, on anyone's turn.
+numbers:2
+price:1
+color:blue
+type:cow
+id:1
+do:{
+get:1
+}
+[done]
+
+[card]
+name:Bakery
+message:Get 1 coin from the bank, your turn only.
+numbers:2,3
+price:1
+color:green
+type:shop
+id:2
+do:{
+i get:1
+}
+[done]
+
+[card]
+name:Cafe
+message:Get 1 coin from the player who rolled the dice.
+numbers:3
+price:2
+color:red
+type:coffee
+id:3
+do:{
+i steal:1
+}
+[done]
+
+[card]
+name:Convenience Store
+message:Get 3 coins from the bank, on your turn only.
+numbers:4
+price:2
+color:green
+type:shop
+id:4
+do:{
+i get:3
+}
+[done]
+
+[card]
+name:Forest
+message:Get 1 coin from the bank, on anyone's turn.
+numbers:5
+price:3
+color:blue
+type:gear
+id:5
+do:{
+get:1
+}
+[done]
+
+[card]
+name:Stadium
+message:Get 2 coins from all players, on your turn only.
+numbers:6
+price:6
+color:purple
+type:major_establishment
+id:6
+do:{
+a steal:2
+}
+[done]
+
+[card]
+name:TV Station
+message:Take 5 coins from any one player, on your turn only.
+numbers:6
+price:7
+color:purple
+type:major_establishment
+id:7
+do:{
+c steal:5
+}
+[done]
+
+[card]
+name:Business Center
+message:Trade One Non-MAJOR ESTABLISHMENT with another player, on your turn only.
+numbers:6
+price:8
+color:purple
+type:major_establishment
+id:8
+do:{
+trade:
+}
+[done]
+
+[card]
+name:Cheese Factory
+message:Get 3 coins from the bank for each COW establishment that you own, on your turn only.
+numbers:7
+price:5
+color:green
+type:factory
+id:9
+do:{
+getAll:cow,3
+}
+[done]
+
+[card]
+name:Furniture Factory
+message:Get 3 coins from the bank for each GEAR establishment that you own, on your turn only.
+numbers:8
+price:3
+color:green
+type:factory
+id:10
+do:{
+getAll:gear,3
+}
+[done]
+
+[card]
+name:Mine
+message:Get 5 coins from the bank, on anyone's turn.
+numbers:9
+price:6
+color:blue
+type:gear
+id:11
+do:{
+get:5
+}
+[done]
+
+[card]
+name:Family Restaurant
+message:Get 2 coins from the player who rolled the dice.
+numbers:9,10
+price:3
+color:red
+type:coffee
+id:12
+do:{
+i steal:2
+}
+[done]
+
+[card]
+name:Apple Orchard
+message:Get 3 coins from the bank, on anyone's turn.
+numbers:10
+price:3
+color:blue
+type:field
+id:13
+do:{
+get:3
+}
+[done]
+
+[card]
+name:Fruit and Vegetable Market
+message:Get 2 coins from the bank for each FIELD establishment that you own, on your turn only.
+numbers:11,12
+price:2
+color:green
+type:market
+id:14
+do:{
+getAll:field,2
+}
+[done]
