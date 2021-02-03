@@ -1436,7 +1436,7 @@ public class Main implements MouseListener, MouseMotionListener, MouseWheelListe
 	}
 	
 	public void prePaintComponent(Graphics g) {
-		
+		((Graphics2D) g).setRenderingHint(RenderingHints.KEY_ANTIALIASING,RenderingHints.VALUE_ANTIALIAS_ON);
 	}
 
 	public void postPaintComponent(Graphics g) {

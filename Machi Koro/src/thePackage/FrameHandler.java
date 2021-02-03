@@ -102,6 +102,7 @@ public class FrameHandler extends GameFrame implements Paintable, MouseListener,
 	
 	// GMK Animate the game in thePackage.FrameHandler.paintIt(Graphics) method
 	public void paintIt(Graphics g) {
+		((Graphics2D) g).setRenderingHint(RenderingHints.KEY_ANTIALIASING,RenderingHints.VALUE_ANTIALIAS_ON);
 		if(GlobalVariables.DEBUG) {
 			((Graphics2D) g).scale(debugScaler, debugScaler);
 		}

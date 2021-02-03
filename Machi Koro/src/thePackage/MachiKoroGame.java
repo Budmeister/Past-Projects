@@ -8,7 +8,6 @@ import javax.imageio.ImageIO;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 
-import decks.*;
 import thePackage.FrameHandler.Slot;
 
 @SuppressWarnings("unused")
